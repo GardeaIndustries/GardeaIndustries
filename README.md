@@ -1,3 +1,5 @@
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FGardeaIndustries&label=Visitors%20so%20far&countColor=%23263759)
+
 # Hello, World! 👋
 
 I'm a Computer Science student with a passion for coding and innovation. I'm currently diving into the world of open-source and exploring the fascinating field of Machine Learning.
