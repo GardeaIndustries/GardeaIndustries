@@ -16,7 +16,7 @@ I relish working with diverse technologies and am always on the lookout for new 
 
 ## 🌱 Learning
 
-Currently, I'm engrossed in expanding my understanding of Machine Learning. I'm captivated by its potential to transform industries and its ability to facilitate the creation of intelligent systems.
+Currently, I'm focused in expanding my understanding of Machine Learning. I'm captivated by its potential to transform industries and its ability to facilitate the creation of intelligent systems.
 
 ## 🤝 Connect
 
