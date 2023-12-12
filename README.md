@@ -1,4 +1,4 @@
-![Visitors](https://api.visitorbadge.io/api/daily?path=https%3A%2F%2Fgithub.com%2FGardeaIndustries&label=Visitors%20so%20far&countColor=%23263759&style=plastic&labelStyle=upper)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FGardeaIndustries&label=Visitors&labelColor=%23f5f5f5&countColor=%235999e9)
 
 # Hello, World! 👋
 
@@ -10,7 +10,7 @@ I relish working with diverse technologies and am always on the lookout for new 
 
 - **Python**: Leveraged Python's readability and flexibility in various projects, enhancing their efficiency and effectiveness.
 
-- **ReactJS**: Developed dynamic and interactive user interfaces using ReactJS, capitalizing on its component reusability and efficiency.
+- **Svelte**: Developed dynamic and interactive user interfaces using Sveltekit, capitalizing on its component reusability and efficiency.
 
 - **Data Science**: Actively studying and applying data science techniques to extract valuable insights from data, thereby improving the efficiency of my projects.
 
@@ -22,5 +22,3 @@ Currently, I'm focused in expanding my understanding of Machine Learning. I'm ca
 
 Feel free to delve into my repositories and don't hesitate to connect if you have any queries, suggestions, or collaboration ideas.
 Enjoy Exploring!
-
-
